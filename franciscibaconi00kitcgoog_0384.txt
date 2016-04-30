@@ -1,0 +1,48 @@
+APPENDIX D. 353
+
+λογίσασθαι-4. Δεῖ δὲ νοεῖν τὸ Γ τὸ ἐξ ἁπάντων τῶν κοθέ-
+κοστα συγκείμενον· ἡγὰρ ἐπαγωγὴ διὸ πάντων. 5. Ἔστι δὲ ὁ
+τοιοῦτον συλλογισμὸς τῆς πρώτης καὶ ἀμέσου προπόσεως. 6. Ὧν
+μὲν γάρ ἐστι μέσον, διὰ τοῦ μέσου ὀσνλλογισμός· poi μή ἐστι,
+δι’ έπογυγῆυ. 7. Καὶ τρόπον τινὸ ἀντίκειται ἡ ἐπαγωγὴ τῷ συλ-
+λογισμῷ· ὁ μὲν γὸρ διὸ τοῦ μέσον τὸ ἄκρον τῷ τρίτῳ δείκνυσιν· ἡ
+δέ διὰ τοῦ τρίπον τὸ ἄκρον τῷ μέσῳ.
+
+Ihave transcribed the passage at length; lor it includes all
+the important points ot' Aneient Induction. First, we have
+the statement of the Sylloyiam ἐξ ἐπαγωγῆς, where Aristotle
+seems to ἀτοπ a distinction between the process of gaining
+knowledge and the formal arrangement of that knowledge.
+Then he goes on to do away with such distinction by adding
+οὕτω γὰρ ποιούμεθα τὰς ἐπογυγάςε and he lays it down that
+Induction ie proving the connection between “ Middle'' and
+“ Major” by means of the “ Minor :’' i. e. if an ordinary Syllo-
+gism runs thus,
+
+' An s a u,
+All C is B;
+All C is A:
+then Induction will run thus—-
+All C is A,
+
+AllCisB;
+:annisa
+
+Now any person ordinarily acquainted with logical forms will
+see immediately that this is logically incorrect3 that, in fact,
+it involves an ‘⁴ Illicit process of the Minor.” Therefore it is
+that Aristotle adds Δεῖ δὲ νοεῖν τὸ Γτὸ έξ ἁπάντων συγκείμενον,
+in other words, the principle of Simple Enumeration (ἡ γὰρ
+έπογογὴ on odmen) is introduced, and the whole validity of
+ibe processis based upon the assumptiones the ‘⁶ convertibility
+ol the Minor,” or, in English, upon the assumption that it is
+pomible to exhalat and catalogue all cases on any subject: the
+τρίτον, or Μίυον in the Deductive Syllogism, (which is used as
+the Midou Term in the induetive,) is really this enumeration
+ef all possible cases. Το explain3 let us take Aristotle’s own
+illustration.
+
+A 8,
+
+ 
+
